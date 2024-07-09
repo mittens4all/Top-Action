@@ -5,7 +5,7 @@ This resource pack sets the actionbar postion to the top right.
 
 ## Installing the pack:
 
-Add the Top Action Add-on to your resource packs on your world.
+Add the Top Action V1.2 Add-on to your resource packs on your world.
 
 ### How to use titleraw on the actionbar to display scores
 
@@ -23,7 +23,18 @@ titleraw @a actionbar {"rawtext":[{"text":"Money: "}, {"score":{"name":"*", "obj
 - [@mittens4all](https://www.github.com/mittens4all)
 - [Youtube](http://www.youtube.com/@mittens4all)
 
-# Gratitudes
+## Gratitudes
 
 - [Zhea Evyline](https://discord.gg/SYstTYx5G5) \\ Bedrock Commands Community Discord
 - [coddy2009](https://discord.gg/46JUdQb) \\ Bedrock Add-ons Discord
+
+
+```js
+       _                              _     _       _ _  
+      (_)  _     _                   | |   (_)     | | | 
+ ____  _ _| |_ _| |_ _____ ____   ___| |_____ _____| | | 
+|    \| (_   _|_   _) ___ |  _ \ /___)_____  (____ | | | 
+| | | | | | |_  | |_| ____| | | |___ |     | / ___ | | | 
+|_|_|_|_|  \__)  \__)_____)_| |_(___/      |_\_____|\_)_)
+                                                         
+```
