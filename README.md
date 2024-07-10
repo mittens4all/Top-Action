@@ -5,7 +5,7 @@ This resource pack sets the actionbar postion to the top right.
 
 ## Installing the pack:
 
-Add the Top Action V1.2 Add-on to your resource packs on your world.
+Add the Top Action V1.2.1 Add-on to your resource packs on your world.
 
 ### How to use titleraw on the actionbar to display scores
 
@@ -21,7 +21,7 @@ titleraw @a actionbar {"rawtext":[{"text":"Money: "}, {"score":{"name":"*", "obj
 ## Authors
 
 - [@mittens4all](https://www.github.com/mittens4all)
-- [Youtube](http://www.youtube.com/@mittens4all)
+- [Youtube](https://www.youtube.com/@mittens4all)
 
 ## Gratitudes
 
